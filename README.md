@@ -1,5 +1,7 @@
-# Website
+# Website </br>
 TO-Do list :
-Fix Education section
-Add Fun fact - took extra lib books in About
-Change icons in Ex-Cir and Edu
+<ul>
+<li>Fix Education section
+<li>Add Fun fact - took extra lib books in About
+<li>Change icons in Ex-Cir and Edu
+</ul>
